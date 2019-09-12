@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title>My Life</title>
+<meta charset="UTF-8">
+<meta name="description" content="Student Life">
+<meta name="keywords" content=" Life">
+<meta name="author" content="Rohail">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+  <h1>Student Life</h1>
+
+  <p>Life is all about Struggle ,So that like everyone I also had it. Without struggle you can't achieve anything ... </p>
+
+  <img src = "img01.png" alt = "student life" height="400" width="400">
+
+
+<h3>My Struggle</h3>
+
+<p>When I came from Pakistan I didn't knew anything about What goona happen her,
+   but as time passes all things get going .Started a new Life here wher I didn't know anyone nor anyone knows me.
+   In the starting it was difficult but after some time I get used to it
+   Now I am in college and working on my life to get going.
+   All you need in your life to get success is through</p>
+
+  <ul>
+    <li>Focus</li>
+    <li>Goal</li>
+    <li>Hard work</li>
+    <li>Passion</li>
+    <li>struggle</li>
+  </ul>
+<h3>Things you have to do</h3>
+  <ol>
+    <li>You should know what you are working on  </li>
+    <li>give your 100% to your work</li>
+    <li>Do whatever it takes to get your goal</li>
+    <li>You will see some ups and down but all you need is not to give up</li>
+    <li></li>
+  </ol>
+
+</body>
+
+</html>
